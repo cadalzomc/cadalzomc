@@ -46,9 +46,12 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/cadalzomc)  
-- 🌐 [Portfolio Website](https://cadalzomeigo.vercel.app)  
+<p align="left">
+  <a href="https://www.instagram.com/cadalzomc" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cadalzomc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:cadalzomeigo.mc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/cadalzomc)  
+⭐️ From [cadalzomc](https://github.com/cadalzomc)  
