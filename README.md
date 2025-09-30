@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Your Meigo Cadalzo
+# Hi there 👋, I'm Meigo Cadalzo
 
 🚀 Passionate about **Web development**  
 💡 Always curious about **open-source, cloud, and AI**  
