@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 <p align="center">
  <a href="https://github.com/cadalzomc" aria-label="GitHub streak stats for wajahatalimirpro">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadalzomc&theme=dark&hide_border=true" alt="GitHub streak stats for wajahatalimirpro" style="max-width:700px; width:90%; height:auto;" />
