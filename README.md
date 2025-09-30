@@ -7,7 +7,6 @@
 ---
 
 ## 🛠️ Tech Stack
-<h3 align="left">Technologies and Tools:</h3>
 <p align="left">
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-4285f4?style=flat-square&logo=css3&logoColor=white" />
