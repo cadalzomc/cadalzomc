@@ -12,6 +12,7 @@
 
 ---
 
+## 🤖 About Me
 - 🚀 More than 3 years of experience creating innovative and user-friendly applications
 - 🌱 Continuously learning and exploring new technologies
 - 🎯 Currently working as freelance at [Hounddog LLC](https://github.com/KeenWP) and [Niftyers](https://github.com/niftyers)
