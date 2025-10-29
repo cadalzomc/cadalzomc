@@ -17,7 +17,7 @@
 - 🌱 Continuously learning and exploring new technologies
 - 🎯 Currently working as freelance at [Hounddog LLC](https://github.com/KeenWP) and [Niftyers](https://github.com/niftyers)
 - 🤝 Seeking opportunities where I can build, fix, help, and grow
-- 🎓 Visit my [Portfolio](https://cadalzomeigo.vercel.app/) to learn more
+- 🎓 Visit my [Portfolio](https://meigo.is-a.dev/) to learn more
 
 ---
 
@@ -54,17 +54,17 @@
 
 ## 📊 GitHub Stats & Contributions
 <p align="center">
- <a href="https://github.com/cadalzomc" aria-label="GitHub streak stats for wajahatalimirpro">
+ <a href="https://github.com/cadalzomc" aria-label="GitHub streak stats for cadalzo">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadalzomc&theme=dark&hide_border=true" alt="GitHub streak stats for cadalzomc" style="max-width:700px; width:90%; height:auto;" />
  </a>
 </p>
 
   <p align="center" style="display:flex; justify-content:center; gap:8px; flex-wrap:wrap;">
     <a href="https://github.com/cadalzomc" aria-label="GitHub summary stats for cadalzomc">
-      <img src="https://github-readme-stats.vercel.app/api?username=cadalzomc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub summary stats for wajahatalimirpro" style="max-width:520px; width:48%; height:auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=cadalzomc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub summary stats for cadalzomc" style="max-width:520px; width:48%; height:auto;" />
     </a>
     <a href="https://github.com/cadalzomc" aria-label="Activity graph for cadalzomc">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cadalzomc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution activity graph for wajahatalimirpro" style="max-width:520px; width:48%; height:auto;" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cadalzomc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution activity graph for cadalzomc" style="max-width:520px; width:48%; height:auto;" />
     </a>
   </p>
   
