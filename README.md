@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Meigo Cadalzo</h1>
 
-<h1 align="center">🤖 Web Developer</h1>
-<P>I'm a seasoned Web Developer with expertise in React, Vue and JavaScript. My journey began with a Information Technology degree and evolved through several projects, each teaching me something new about the ever-changing landscape of technology. What began as curiosity quickly evolved into a passion for web development. I specialize in modern web technologies, with expertise in React, Next.js, Node.js, and Vue.js. I'm constantly learning and adapting to new technologies to stay updated.</P>
+<h1 align="center">🤖 Full-Stack Developer</h1>
+<P>I'm a seasoned Full-Stack Developer with expertise in React, Vue, NestJS, NodeJS, Typescript, Flutter, and Dart. My journey began with a Information Technology degree and evolved through several projects, each teaching me something new about the ever-changing landscape of technology. What began as curiosity quickly evolved into a passion from web development to Full-Stack Developer. I specialize in modern web technologies, Backend Technologues, with expertise in React, Next.js, Node.js, Typescript, Dart, Flutter. I'm constantly learning and adapting to new technologies to stay updated.</P>
 
 <!-- Snake animation (centered) -->
 <div align="center" style="margin: 6px 0;">
