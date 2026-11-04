@@ -15,7 +15,7 @@
 ## 🤖 About Me
 - 🚀 More than 3 years of experience creating innovative and user-friendly applications
 - 🌱 Continuously learning and exploring new technologies
-- 🎯 Currently working as freelance at [Hounddog LLC](https://github.com/KeenWP) and [Niftyers](https://github.com/niftyers)
+- 🎯 Currently working as freelance at [Hounddog LLC](https://github.com/KeenWP), [Niftyers](https://github.com/niftyers) and [GHMinicon Prime Unlimited Solution Co.](https://ghminicon.com/)
 - 🤝 Seeking opportunities where I can build, fix, help, and grow
 - 🎓 Visit my [Portfolio](https://meigo.is-a.dev/) to learn more
 
